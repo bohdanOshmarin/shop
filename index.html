@@ -8,37 +8,102 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <img src="https://sushiya.ua/media/sushiya/images/sliders/cache/0/c/f/6/6/0cf669617ceee2ed3ed16cab167d0c441ea4b544.webp" alt="" class="head_img">
+<header>
+    <img src="https://sushiya.ua/media/sushiya/images/sliders/cache/0/c/f/6/6/0cf669617ceee2ed3ed16cab167d0c441ea4b544.webp" alt="" class="head_img">
+</header>
 
-    </header>
-    <main class="container my-5">
-            <img src="" class="order">
+<!-- Навігація і кнопка корзини -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
+    <div class="container d-flex justify-content-between">
+        <ul class="navbar-nav">
+            <li class="nav-item"><a class="nav-link active" href="#catalog">Каталог</a></li>
+            <li class="nav-item"><a class="nav-link" href="#recipe">Рецепт філадельфії</a></li>
+            <li class="nav-item"><a class="nav-link" href="#footer">Контакти</a></li>
+        </ul>
 
-        
-        <h1 class="text-center mb-4">Наші товари</h1>
-        <div class="row catalog">
+        <!-- Кнопка корзини -->
+        <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#cartModal">
+            Переглянути корзину
+        </button>
+    </div>
+</nav>
+
+<main class="container my-5">
+    <!-- Каталог товарів -->
+    <div class="row catalog" id="catalog">
+    </div>
+
+    <!-- Розділ рецепту -->
+    <section class="my-5" id="recipe">
+        <h2 class="text-center my-4">Рецепт ролу Філадельфія</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="https://yapiko.com.ua/media/wysiwyg/3_1_.jpg" alt="Рецепт Філадельфії" class="img-fluid rounded">
+            </div>
+            <div class="col-md-6">
+                <h3 class="mb-4">Інгредієнти:</h3>
+                <ul>
+                    <li>Рис для суші — 200 г</li>
+                    <li>Філе лосося — 150 г</li>
+                    <li>Сир Філадельфія — 100 г</li>
+                    <li>Авокадо — 1 шт</li>
+                    <li>Норі (морські водорості) — 1 лист</li>
+                    <li>Рисовий оцет — 2 ст. л.</li>
+                    <li>Соєвий соус — за смаком</li>
+                </ul>
+                <h3 class="mb-4">Процес приготування:</h3>
+                <p>1. Підготуйте рис для суші, змішавши його з рисовим оцтом після варіння. </p>
+                <p>2. На коврик для суші викладіть норі, зверху рівним шаром - рис.</p>
+                <p>3. Розташуйте сир, авокадо та лосось всередині, згорніть рол.</p>
+                <p>4. Охолодіть і наріжте для подачі.</p>
+            </div>
         </div>
-    </main>
-    <footer>
-        <table class="table">
-            <thead class="thead">
-              <tr>
-                <th scope="col">контакти</th>
-                <th scope="col">соц. мережі</th>
-                <th scope="col">відгук</th>
-              </tr>
-            </thead>
-            <tbody class="tbody">
-              <tr>
-                <td>+380 (97) 722 5555</td>
-                <td class="social"><a href="https://www.instagram.com/p/C5NeGEYN7mX/?igsh=ZHR1eGN3amxkcWNk">Instagram</a></td>
-                <td>text</td>
-              </tr>
-            </tbody>
-          </table>
-    </footer>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <script src="script.js"></script>
+    </section>
+</main>
+<div class="video">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/fcLzNVU_Ack" title="Як приготувати вдома ідеальні суші | Рис для суші | Домашні роли" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<!-- Модальне вікно корзини -->
+<div class="modal fade" id="cartModal" tabindex="-1" aria-labelledby="cartModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="cartModalLabel">Ваша корзина</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Закрити"></button>
+            </div>
+            <div class="modal-body">
+                <ul class="list-group cart-items">
+                    <!-- Список товарів -->
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Продовжити покупки</button>
+                <button type="button" class="btn btn-primary">Оформити замовлення</button>
+            </div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <table class="table">
+        <thead class="thead">
+        <tr>
+            <th scope="col">Контакти</th>
+            <th scope="col">Соц. мережі</th>
+            <th scope="col">Відгук</th>
+        </tr>
+        </thead>
+        <tbody class="tbody">
+        <tr>
+            <td>+380 (97) 722 5555</td>
+            <td class="social"><a href="https://www.instagram.com/p/C5NeGEYN7mX/?igsh=ZHR1eGN3amxkcWNk">Instagram</a></td>
+            <td>text</td>
+        </tr>
+        </tbody>
+    </table>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="script.js"></script>
 </body>
 </html>

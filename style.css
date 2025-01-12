@@ -1,5 +1,7 @@
 header{
     background-color: #EDBEBE;
+    display: flex;
+    justify-content: center;
 }
 .order{
     display: flex;
@@ -67,4 +69,8 @@ body{
     background-color: #af5050;
     border-color: #af5050;
     color: white;
+}
+.video{
+    display: flex;
+    justify-content: center;
 }
