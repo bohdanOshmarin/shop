@@ -1,78 +1,78 @@
 [
   {
-    "title": "",
-    "description": "",
-    "price": 0,
-    "image": ""
+    "title": "Рол без рису з лососем та краб-міксом",
+    "description": "Авокадо, Крабовий мікс, Лосось cвіжий, Норі",
+    "price": 319,
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/d/6/9/0/d/d690dddcd96faa8bc794b86601f65d24e36b3169.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": 0,
-    "image": ""
+    "title": "Рол Дабл фіш",
+    "description": "Лосось cвіжий, Норі, Рис, Сир вершковий",
+    "price": 359,
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/9/e/3/e/d/9e3edbe7a5164ad7e6adad0f95e1c1bd66795859.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол Дабл чіз",
+    "description": "Авокадо, Лосось cвіжий, Норі, Рис, Сир вершковий",
+    "price": 339,
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/9/1/0/f/e/910feb790530465196262c3816248cf1fd11885f.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Філадельфія з лососем абурі та соусом теріякі",
+    "description": "Авокадо, Кранч, Крем-сир, Лосось cвіжий, Норі, Огірок, Рис, Соус теріякі",
+    "price": "349",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/6/1/f/1/a/61f1a0a8f326ffc17d00c6b949ba5379c6470e33.webp "
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол Філадельфія в кунжуті зі свіжим лососем",
+    "description": "Авокадо, Крем-сир, Кунжут білий, Кунжут чорний, Лосось cвіжий, Норі, Огірок, Рис",
+    "price": "215",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/a/6/5/f/7/a65f735577455f4e82e185f2a3fadbd46a0d6081.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол Філадельфія унагі в кунжуті",
+    "description": "Авокадо, Ікра летючої риби, Крем-сир, Кунжут білий, Кунжут чорний, Норі, Огірок, Рис, Вугор",
+    "price": "275",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/4/c/0/5/8/4c0586201f24a09e09e7a790191319459440ea07.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол з креветкою та авокадо під соусом світ чилі",
+    "description": "Авокадо, Креветка панко, Крем-сир, Манго, Норі, Рис, Соус манго-чілі Сушия",
+    "price": "285",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/f/f/f/e/0/fffe06d9433e02579ccef6c13c65f1e4780299ac.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол Каліфорнія Де Люкс зі свіжим лососем",
+    "description": "Авокадо, Ікра летючої риби, Лосось cвіжий, Норі, Огірок, Рис",
+    "price": "375",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/4/1/4/7/4/414749d20cb1dab9e5c58b1dee5d6528654863fb.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол з тунцем в стружці тунця",
+    "description": "Авокадо, Крем-сир, Цибуля зелена, Норі, Рис, Соус світ чилі майонез (гострий), Соус унагі, Стружка тунця, Тунець",
+    "price": "295",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/f/0/3/6/7/f0367d4507ce8d4971633152de3b483f2b016161.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол ф'южн з гребінцем",
+    "description": "Авокадо, Гребінець, Ікра летючої риби, Крем-сир, Цибуля зелена, Норі, Огірок, Рис, Соус спайсі майонез",
+    "price": "425",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/1/f/b/7/8/1fb78486ee6a303a3c2813961452b930218eb4ff.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол ф'южн з лососем",
+    "description": "Крем-сир, Лосось, Цибуля зелена, Норі, Огірок, Рис, Салат айсберг, Соус спайсі майонез, Фурікаки",
+    "price": "299",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/e/5/7/b/9/e57b9eb3fd19189d743988e5e5ec68b015839a4e.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол Зелений Дракон",
+    "description": "Авокадо, Кунжут білий, Норі, Огірок, Рис, Соус унагі, Тамаго, Вугор",
+    "price": "359",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/9/8/3/6/a/9836ac7a3da28fd9d9e54439b1812779cc7e97cf.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол Золотий Дракон",
+    "description": "Цибулеві крихти, Норі, Огірок, Рис, Соус унагі, Тамаго, Вугор",
+    "price": "449",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/a/9/c/4/8/a9c48e84e6966f52bc2a737ae9054d31d197fe8d.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол Червоний Дракон",
+    "description": "Лосось cвіжий, Майонез, Норі, Огірок, Рис, Тамаго, Вугор",
+    "price": "419",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/8/9/6/c/3/896c3ff5f5f6888ec890ba82f113df80b493aa19.webp"
   },{
-    "title": "",
-    "description": "",
-    "price": "",
-    "image": ""
+    "title": "Рол Тигровий дракон",
+    "description": "Креветки, Норі, Огірок, Рис, Соус спайсі майонез, Соус унагі, Тамаго, Вугор",
+    "price": "419",
+    "image": "https://sushiya.ua/media/sushiya/images/products/cache/d/a/e/d/4/daed407311c905931c061e1c45c282ab00e48563.webp"
   }
 ]

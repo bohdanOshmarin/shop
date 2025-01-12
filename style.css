@@ -1,0 +1,70 @@
+header{
+    background-color: #EDBEBE;
+}
+.order{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.head_img{
+    width: max-content;
+    display: flex;
+    justify-content: center;
+}
+.table{
+    width: 70%;
+    margin: auto;
+    background-color: #EDBEBE;
+}
+footer{
+    background-color: #EDBEBE;
+    border-top: 2px solid #e37f7f;
+}
+.card{
+    width: 18rem;
+    height: 37.3rem;
+    transition: 0.3s;
+    margin: 31px;
+}
+.card:hover{
+    width: 20rem;
+    height: 41rem;
+    margin: 0px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.card-title{
+    font-size: 20px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+.card-title:hover{
+    font-size: 26px;
+    font-weight: 600;
+}
+body{
+    background-color: #ffe2e2;
+}
+.btn{
+    color: black;
+    background-color: white;
+    border: 0;
+
+}
+.btn:hover{
+    color: black;
+    background-color: white;
+    border: 0;  
+}
+.cart-btn{
+    background-color: #e37f7f;
+    border-color: #e37f7f;
+    transition: 0.3s;
+    color: white;
+    border-radius: 5px;
+}
+.cart-btn:hover{
+    background-color: #af5050;
+    border-color: #af5050;
+    color: white;
+}
